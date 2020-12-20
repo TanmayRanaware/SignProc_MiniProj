@@ -25,4 +25,3 @@ The project aims at building a voice recognition program to identify speaker in 
 ### Methodology
 Extraction of Mel Frequency Cepstral Spectogram Coefficients
 The audio is loaded and made available for feature extraction using Signal Processing.Amplitude envelope of a waveforms is then  captured to  give an idea about the loudness of the audio.
-![alt text](https://drive.google.com/file/d/1kZWj56ViF_8NKqVSYuQHq9SZamTKAEb9/view?usp=sharing)
