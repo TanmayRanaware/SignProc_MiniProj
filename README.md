@@ -2,7 +2,9 @@
 # VOICE RECOGNITION TO IDENTIFY SPEAKER
 
 ## Team Members
-Tanmay Ranaware
+<ul>
+ <li>Tanmay Ranaware</li>
+ </ul>
 
 ## Mentors
 Harish Bachu
