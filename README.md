@@ -61,12 +61,22 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  ### Spectograms
  
  #### Audio1
+ 
+ ![a1](https://user-images.githubusercontent.com/56064349/102709881-7813de00-42d4-11eb-9f7f-e67f7eff82d5.png)
   
  #### Audio2
-   
+ 
+ ![A2](https://user-images.githubusercontent.com/56064349/102709883-7a763800-42d4-11eb-9065-3122de17df23.png)
+
  #### Audio3
  
+ ![A3](https://user-images.githubusercontent.com/56064349/102709886-7cd89200-42d4-11eb-8766-24e9e414ac18.png)
+
+ 
  #### Audio4
+ 
+ ![A4](https://user-images.githubusercontent.com/56064349/102709887-7ea25580-42d4-11eb-9849-f128fb54f556.png)
+   
     
     
 
