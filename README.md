@@ -28,5 +28,7 @@ The audio is loaded and made available for feature extraction using Signal Proce
 ![Screenshot 2020-12-20 122504](https://user-images.githubusercontent.com/56064349/102708405-ee124800-42c8-11eb-83df-46e08f0d9c75.png)
 ![A2](https://user-images.githubusercontent.com/56064349/102708429-14d07e80-42c9-11eb-971b-d0222dd2a5df.png)
 ![A3](https://user-images.githubusercontent.com/56064349/102708466-56612980-42c9-11eb-9fb4-fcb266b7c27a.png)
+![A4](https://user-images.githubusercontent.com/56064349/102708480-7f81ba00-42c9-11eb-8dda-1ad23fffaaa6.png)
+
 
 
