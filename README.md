@@ -92,6 +92,12 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  
  
 Here we had 15 MFCC’s coefficient represented in the y-axis, time in the x-axis and more the yellow, more is the value of that coefficient in that time frame.
+
+#### Create a CNN model, train the model with the given data
+
+The MFCC's now, have to be classified into their classes of person. Identifying this classification problem, a deep learning model was proposed for efficient training and to get accurate results. A Convolutional Neural Network (CNN) model was designed and used as the model.
+
+
  
  
  
