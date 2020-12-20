@@ -116,6 +116,7 @@ The CNN was trained on the dataset and the model was saved as a json file for fu
  <li>https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac</li>
  <li>https://medium.com/@himadrisankarchatterjee/a-basic-introduction-to-convolutional-neural-network-8e39019b27c4</li>
  <li>https://medium.com/@tanveer9812/mfccs-made-easy-7ef383006040</li>
+ <li>https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial</li>
  </ul>
  Drive link for project-
 
