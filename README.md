@@ -102,10 +102,17 @@ The MFCC's now, have to be classified into their classes of person. Identifying 
 The CNN was trained on the dataset and the model was saved as a json file for further importing.
 
 ### Results
-
+![result](https://user-images.githubusercontent.com/56064349/102712202-3b9cae00-42e5-11eb-9094-7ea69d7732a7.png)
 <ul>
  <li>The CNN model presented a validation accuracy of  95.83 %</li>
  </ul>
+ 
+ ### Acknowledgement
+ 
+ We acknowledge and specially thank for the support and technical guidance given by our seniors Alabhya, Anirudh Athresh and Naman. We also thank IEEE-NITK for supporting this project.
+ 
+  ### Refrences
+ 
 
  
  
