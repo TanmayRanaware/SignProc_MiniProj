@@ -54,6 +54,20 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  
   ![A4](https://user-images.githubusercontent.com/56064349/102709686-8fea6280-42d2-11eb-9ec7-39de7e6abe34.png)
   
- Time is on the x-axis,frequency on the y-axis and a third axis which is given by the colour and the colour is telling us how much a given frequency is present in the sound at a given time.So here we see that low-frequency sound is more in the most of the audio.
+ Time is on the x-axis,frequency on the y-axis and a third axis which is given by the colour and the colour is tells how much a given frequency is present in the sound at a given time.So here low-frequency sound is more in all audios.
+ 
+ The human perception of sound levels is not linear, but better approximated by a logarithm.By converting to decibels (dB) the scale becomes logarithmic. This limits the numerical range, to something like 0-120 dB.The intensity of colors when this is plotted corresponds more closely to what humans hear than if  used a linear scale.
+ 
+ ### Spectograms
+ 
+ #### Audio1
+  
+ #### Audio2
+   
+ #### Audio3
+ 
+ #### Audio4
+    
+    
 
 
