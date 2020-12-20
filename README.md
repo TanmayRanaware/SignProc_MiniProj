@@ -112,6 +112,10 @@ The CNN was trained on the dataset and the model was saved as a json file for fu
  We acknowledge and specially thank for the support and technical guidance given by our seniors Alabhya, Anirudh Athresh and Naman. We also thank IEEE-NITK for supporting this project.
  
   ### Refrences
+  <ul>
+ <li>https://medium.com/@tanveer9812/mfccs-made-easy-7ef383006040</li>
+<li>Create a CNN model, train the model with the given data.</li>
+ </ul>
  
 
  
