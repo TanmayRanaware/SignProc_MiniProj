@@ -97,6 +97,8 @@ Here we had 15 MFCC’s coefficient represented in the y-axis, time in the x-axi
 
 The MFCC's now, have to be classified into their classes of person. Identifying this classification problem, a deep learning model was proposed for efficient training and to get accurate results. A Convolutional Neural Network (CNN) model was designed and used as the model.
 
+![model](https://user-images.githubusercontent.com/56064349/102711322-b7472c80-42de-11eb-9640-57078fab696b.png)
+
 
  
  
