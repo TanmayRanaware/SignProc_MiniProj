@@ -81,17 +81,17 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  Mel Frequency Cepstral Coefficents (MFCCs) is a way of extracting features from an audio. The MFCC uses the MEL scale to divide the frequency band to sub-bands and then extracts the Cepstral Coefficents using Discrete Cosine Transform (DCT). MEL scale is based on the way humans distinguish between frequencies which makes it very convenient to process sounds.
  
  #### Audio1
- ![a1](https://user-images.githubusercontent.com/56064349/102710782-b0b6b600-42da-11eb-8cba-dc5376701a4e.png)
+![a1](https://user-images.githubusercontent.com/56064349/102711109-48b59f00-42dd-11eb-9b3e-5a96280e6bc8.png)
  
  #### Audio2
- ![A2](https://user-images.githubusercontent.com/56064349/102710733-53226980-42da-11eb-9338-3c3f5c145fcc.png)
+![A2](https://user-images.githubusercontent.com/56064349/102711110-494e3580-42dd-11eb-82ab-5a190d115ed1.png)
  #### Audio3
- ![A3](https://user-images.githubusercontent.com/56064349/102710730-4f8ee280-42da-11eb-8628-ad263e916437.png)
+![A3](https://user-images.githubusercontent.com/56064349/102711105-46ebdb80-42dd-11eb-8f5e-926f942e025f.png)
  #### Audio4
- ![A4](https://user-images.githubusercontent.com/56064349/102710731-5158a600-42da-11eb-84b8-18518729b44c.png)
+![A4](https://user-images.githubusercontent.com/56064349/102711106-481d0880-42dd-11eb-9cc7-ce489b03c545.png)
  
  
-Here we had 15 MFCC’s coefficient represented in the y-axis, time in the x-axis and more the purple color, more is the value of that coefficient in that time frame.
+Here we had 15 MFCC’s coefficient represented in the y-axis, time in the x-axis and more the yellow, more is the value of that coefficient in that time frame.
  
  
  
