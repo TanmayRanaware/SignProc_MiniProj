@@ -91,6 +91,9 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  ![A4](https://user-images.githubusercontent.com/56064349/102710731-5158a600-42da-11eb-84b8-18518729b44c.png)
  
  
+Here we had 15 MFCC’s coefficient represented in the y-axis, time in the x-axis and more the purple color, more is the value of that coefficient in that time frame.
+ 
+ 
  
  
    
