@@ -80,6 +80,17 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  
  Mel Frequency Cepstral Coefficents (MFCCs) is a way of extracting features from an audio. The MFCC uses the MEL scale to divide the frequency band to sub-bands and then extracts the Cepstral Coefficents using Discrete Cosine Transform (DCT). MEL scale is based on the way humans distinguish between frequencies which makes it very convenient to process sounds.
  
+ #### Audio1
+ 
+ #### Audio2
+ ![A2](https://user-images.githubusercontent.com/56064349/102710733-53226980-42da-11eb-9338-3c3f5c145fcc.png)
+ #### Audio3
+ ![A3](https://user-images.githubusercontent.com/56064349/102710730-4f8ee280-42da-11eb-8628-ad263e916437.png)
+ #### Audio4
+ ![A4](https://user-images.githubusercontent.com/56064349/102710731-5158a600-42da-11eb-84b8-18518729b44c.png)
+ 
+ 
+ 
  
    
     
