@@ -7,15 +7,17 @@
  </ul>
 
 ## Mentors
-Harish Bachu
-Pravan Omprakash
-Sujith Bhat
-
+<ul>
+ <li>Harish Bachu</li>
+<li>Pravan Omprakash</li>
+ <li>Sujith Bhat</li>
+</ul>
 ## Objectives
 The project aims at building a voice recognition program to identify speaker in the audio file.The project makes use of signal processing for feature extraction.Recognition is done using ML algorithms.The work was then divided into major two parts.
-Extraction of Mel Frequency Cepstral Spectogram Coefficients
-Create a CNN model, train the model with the given data.
- 
+<ul>
+ <li>Extraction of Mel Frequency Cepstral Spectogram Coefficients</li>
+<li>Create a CNN model, train the model with the given data.</li>
+ </ul>
 ## Methodology
 Extraction of Mel Frequency Cepstral Spectogram Coefficients
 The audio is loaded and made available for feature extraction using Signal Processing.Amplitude envelope of a waveforms is then  captured to  give an idea about the loudness of the audio.
