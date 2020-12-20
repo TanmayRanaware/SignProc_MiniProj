@@ -40,8 +40,11 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  #### Audio1
  
  ![a1](https://user-images.githubusercontent.com/56064349/102709568-181c3800-42d2-11eb-8356-483c949b4c09.png)
+ 
  #### Audio2
  
+ ![A2](https://user-images.githubusercontent.com/56064349/102709621-3d10ab00-42d2-11eb-8ed8-a4f2e209a279.png)
+
  #### Audio3
  
  
