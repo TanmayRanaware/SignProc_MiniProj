@@ -31,6 +31,7 @@ The audio is loaded and made available for feature extraction using Signal Proce
 ![A4](https://user-images.githubusercontent.com/56064349/102708480-7f81ba00-42c9-11eb-8dda-1ad23fffaaa6.png)
 
 To move wave from a time domain to frequency domain we need to perform Fast Fourier Transform.Fourier transform decomposes a periodic sound into a sum of sine waves which all vibrate oscillate at different frequencies. It is quite incredible so we can describe a very complex sound as long as it’s periodic as a sum as the superimposition of a bunch of different sine waves at different frequencies.
+By applying the Fourier transform we move in the frequency domain.The magnitude is a function of the frequency itself but by this we lose information about time
 
 
 
