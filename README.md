@@ -25,10 +25,11 @@ The project aims at building a voice recognition program to identify speaker in 
 ### Methodology
 #### Extraction of Mel Frequency Cepstral Spectogram Coefficients
 The audio is loaded and made available for feature extraction using Signal Processing.Amplitude envelope of a waveforms is then  captured to  give an idea about the loudness of the audio.
-![Screenshot 2020-12-20 122504](https://user-images.githubusercontent.com/56064349/102708405-ee124800-42c8-11eb-83df-46e08f0d9c75.png)
-![A2](https://user-images.githubusercontent.com/56064349/102708429-14d07e80-42c9-11eb-971b-d0222dd2a5df.png)
-![A3](https://user-images.githubusercontent.com/56064349/102708466-56612980-42c9-11eb-9fb4-fcb266b7c27a.png)
-![A4](https://user-images.githubusercontent.com/56064349/102708480-7f81ba00-42c9-11eb-8dda-1ad23fffaaa6.png)
+![a1](https://user-images.githubusercontent.com/56064349/102716091-95aa6d00-42ff-11eb-888b-663548d30692.png)
+![A2](https://user-images.githubusercontent.com/56064349/102716092-96430380-42ff-11eb-9434-f9085d76c3c7.png)
+![A3](https://user-images.githubusercontent.com/56064349/102716093-96430380-42ff-11eb-9f1f-be7bb189ec59.png)
+ 
+![A4](https://user-images.githubusercontent.com/56064349/102716089-94794000-42ff-11eb-901a-1895564e2f42.png)
 
 To move wave from a time domain to frequency domain we need to perform Fast Fourier Transform.Fourier transform decomposes a periodic sound into a sum of sine waves which all vibrate oscillate at different frequencies. It is quite incredible so we can describe a very complex sound as long as it’s periodic as a sum as the superimposition of a bunch of different sine waves at different frequencies.
 <p>By applying the Fourier transform we move in the frequency domain.The magnitude is a function of the frequency itself but by this information about time is lost.But audio data alike is a time series,so how things change in time should be known and with the Fourier transform it can’t be achived, so lot of information is missing.
@@ -51,7 +52,7 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
  
  #### Audio4
  
-![A4](https://user-images.githubusercontent.com/56064349/102716089-94794000-42ff-11eb-901a-1895564e2f42.png)
+
   
  Time is on the x-axis,frequency on the y-axis and a third axis which is given by the colour and the colour is tells how much a given frequency is present in the sound at a given time.So here low-frequency sound is more in all audios.
  
