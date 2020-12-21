@@ -41,18 +41,16 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
   
  ### Spectograms
  #### Audio1
- 
- ![a1](https://user-images.githubusercontent.com/56064349/102716091-95aa6d00-42ff-11eb-888b-663548d30692.png)
+ ![a1](https://user-images.githubusercontent.com/56064349/102787596-55162680-43c7-11eb-8de8-7ee336221851.png)
  
  #### Audio2
- 
- ![A2](https://user-images.githubusercontent.com/56064349/102716092-96430380-42ff-11eb-9434-f9085d76c3c7.png)
+ ![A2](https://user-images.githubusercontent.com/56064349/102787598-56475380-43c7-11eb-81f2-bba470da4dce.png)
 
  #### Audio3
-![A3](https://user-images.githubusercontent.com/56064349/102716093-96430380-42ff-11eb-9f1f-be7bb189ec59.png)
- 
+![A3](https://user-images.githubusercontent.com/56064349/102787600-56dfea00-43c7-11eb-9bf9-995019187fa1.png)
+
  #### Audio4
- 
+ ![A4](https://user-images.githubusercontent.com/56064349/102787591-534c6300-43c7-11eb-96bc-37d3d8afc37c.png)
 
   
  Time is on the x-axis,frequency on the y-axis and a third axis which is given by the colour and the colour is tells how much a given frequency is present in the sound at a given time.So here low-frequency sound is more in all audios.
