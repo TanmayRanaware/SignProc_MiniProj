@@ -35,9 +35,9 @@ To move wave from a time domain to frequency domain we need to perform Fast Four
 <p>
  By applying the Fourier transform we move in the frequency domain.The magnitude is a function of the frequency itself but by this information about time is lost.But audio data alike is a time series,so how things change in time should be known and with the Fourier transform it can’t be achived, so lot of information is missing.
 </p>
-<p>
+
  The solution to this is short time Fourier transform(stft).What the short time Fourier transform does it computes several Fourier transforms at different intervals and in doing so it preserves information about time and the way sound evolved it's over time ,so  fix the number of samples  and do the Fourier transform there and then  move on to to the rest lack of the waveform and what happens here is that we get a spectogram which gives us information of (time + frequency + magnitude)
- <\p>
+ 
   
  ### Spectograms
  #### Audio1
